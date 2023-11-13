@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding :0;
+    box-sizing:border-box;
+    line-height: 25px;
+    background-color: rgb(241, 194, 113);
+}
+
+.one{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+.container {
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    width: 1000px;
+    height: 2000px;
+    outline: double 10px #7ca6e6;
+    margin: auto;
+}
